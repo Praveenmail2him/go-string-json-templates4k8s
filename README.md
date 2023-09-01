@@ -1,0 +1,1 @@
+# go-string-json-templates4k8s
